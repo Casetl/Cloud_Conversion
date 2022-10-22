@@ -1,0 +1,9 @@
+#Entornos virtuales
+venv/
+lab-flask/
+
+#Bases de datos
+instance/
+
+#Archvivos temporales
+*.pyc
